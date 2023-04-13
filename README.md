@@ -1,18 +1,25 @@
-# Getting Started with Create React App
+# Altun | Video Responsive Navbar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Final Result
 
-In the project directory, you can run:
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.gif"/>
 
-### `npm start`
+## Installation
+Once you have cloned the project to your local machine, first install the node_modules
+by running the following command in the terminal:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+`npm install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+When this is done, you can launch the application using:
+
+`npm start`
+
+or use the WebStorm button (npm start). Open [http://localhost:3000](http://localhost:3000) to
+view the page in the browser.
+
 
 ### `npm test`
 
